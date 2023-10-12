@@ -1,0 +1,8 @@
+.teste h1 {
+  color: rgb(255, 255, 255);
+  display: flex;
+  justify-content: center;
+  background: linear-gradient(48deg, rgb(149, 63, 247), #e71d93, #d738ec);
+}
+
+/*# sourceMappingURL=style.css.map */
